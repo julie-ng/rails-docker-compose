@@ -18,7 +18,7 @@ $ docker-compose up
 
 Then open [http://localhost:3000](http://localhost:3000) in your browser.
 
-Because to [create databases](#create-dabatases) if you're starting project for the first time!
+Because to [create databases](#create-databases) if you're starting project for the first time!
 
 ## Database
 
